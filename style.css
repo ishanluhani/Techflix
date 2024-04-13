@@ -1,0 +1,29 @@
+.stApp.streamlit-wide  {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700677187.jpg");
+    background-size: cover;}
+
+.stButton >* {
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 30px;
+    background-color: #262731;
+    color: red;
+}
+
+#text {
+    font-size: 20px;
+    color: #d4d9d8;
+}
+
+.nl {
+    display: inline;
+}
+
+.littleBig {
+    font-size: 20px;
+}
+
+.red {
+    color: red;
+}
