@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/GQGpxY6/Screenshot-2024-04-13-230003.png" align="center" width='1500px'></img>
+<img src="example.jpg" align="center" width='1500px'></img>
 
 # Example of project using this Dataset
    1. Clone This repository: [TechFlix](https://github.com/ishanluhani/TechFlix)
